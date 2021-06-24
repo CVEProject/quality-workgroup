@@ -8,7 +8,7 @@ Version 1.0
 
 ### 1. CVE Quality Working Group Overview
 
-The CVE Quality  Working Group (QWG) was established by the CVE Board for the purpose enhancing the quality of CVE submissions to the CVE Program.  The QWG was to provide a needed forum for CVE Quality to occur as needed. The QWG activities and discussions are focused on improving the CVE data quality while providing directional recommendations to the Board on enhancements to data formats, data submission issues, and general quality improvements for the CVE Program.. 
+The CVE Quality  Working Group (QWG) was established by the CVE Board for the purpose of enhancing the quality of CVE submissions to the CVE Program.  The QWG was to provide a needed forum for CVE Quality to occur as needed. The QWG activities and discussions are focused on improving the CVE data quality while providing directional recommendations to the Board on enhancements to data formats, data submission issues, and general quality improvements for the CVE Program.
 
 ### 2. Working Group Membership
 
@@ -34,16 +34,16 @@ Complaints regarding inappropriate behavior are welcomed by QWG Chair(s) or anot
 
 ### 7. Change in Member’s Affiliation
 
-If an QWG member has a change in organizational affiliation that renders the member unable to meet the QWG membership qualifications, that member must notify the Secretariat of the change. Once known, the Secretariat will remove the unqualified member from the QWG mailing list and the departing member’s access to other CVE QWG resources (i.e., SharePoint).
+If a QWG member has a change in organizational affiliation that renders the member unable to meet the QWG membership qualifications, that member must notify the Secretariat of the change. Once known, the Secretariat will remove the unqualified member from the QWG mailing list and the departing member’s access to other CVE QWG resources (i.e., SharePoint).
 
 ### 8. Removing QWG Members
 
 QWG members will be considered for removal if:
 
-  1. The QWG member asks to be removed.  
+  1. The QWG member asks to be removed.
 
   2. A current QWG member nominates the person or organization for forced removal. Forced removal may be based on lack of collegiality or professional conduct or failure to follow conventions as established in this Charter.  
-Once the removal process is triggered, the Secretariat will remove the identified member from the QWG mailing list and the departing member’s access to other CVE QWG resources (i.e., SharePoint).
+Once the removal process is approved, the Secretariat will remove the identified member from the QWG mailing list and the departing member’s access to other CVE QWG resources (i.e., SharePoint).
 
 ### 9. Consensus Determination
 
@@ -55,7 +55,7 @@ While most times consensus can be accurately determined on a working group call,
 
 ### 10. Working Group Meetings 
 
-QWG meetings are held routinely as required. The Secretariat, in conjunction with the QWG Chair(s), will establish the agenda for each meeting. QWG members are free to raise subjects during meetings that are not on the agenda for that particular meeting. The agenda, and any appropriate supporting documents, will be provided to the members prior to each meeting, and should be reviewed in advance. Actions items carried over or identified during the previous meeting should be included in the agenda sent to QWG members.
+QWG meetings are held routinely as required. The Secretariat, in conjunction with the QWG Chair(s), will establish the agenda for each meeting. QWG members are free to raise subjects during meetings that are not on the agenda for that particular meeting. The agenda, and any appropriate supporting documents, will be provided to the members prior to each meeting and should be reviewed in advance. Actions items carried over or identified during the previous meeting should be included in the agenda sent to QWG members.
 
 ### 11. Working Group Progress
 
